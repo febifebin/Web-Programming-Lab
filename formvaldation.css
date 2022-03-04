@@ -1,0 +1,53 @@
+Form_validation.html
+Who has access
+
+System properties
+Type
+HTML
+Size
+5 KB
+Storage used
+5 KB
+Location
+Form_validation
+Owner
+Febin Aziz
+Modified
+6 Feb 2022 by Febin Aziz
+Opened
+20:29 by me
+Created
+6 Feb 2022
+No description
+Viewers can download
+    <style type="text/css">  
+        body{  
+            font-family: Calibri;  
+        }  
+        input[type="text"] {  
+            width: 250px;  
+        }  
+        input[type="submit"], input[type="reset"] {  
+            width: 77px;  
+            height: 27px;  
+            position: relative;left: 180px;  
+        }  
+        form{  
+            text-align: center;  
+            font-family: Calibri;  
+            font-size: 20px;  
+            border: 3px solid black;  
+            width: 600px;  
+            margin: 20px auto;  
+        }  
+        td {  
+            padding: 10px;  
+        }  
+        td:first-child {  
+            text-align: right;  
+            font-weight: bold;  
+        }  
+        td:last-child {  
+            text-align: left;  
+      
+    </style>  
