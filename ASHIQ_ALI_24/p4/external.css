@@ -1,0 +1,12 @@
+body {
+  padding: 2%;
+}
+#g1 {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+.r1 {
+  color: blue;
+  text-align: center;
+}
