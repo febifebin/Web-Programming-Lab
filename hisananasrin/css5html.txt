@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="Css_style.css">
+
+</head>
+
+<body>
+
+<div>
+
+<h1>External CSS Example</h1>
+
+<p>In the external stylesheet, the div is styled to have a background color, text color, border, and padding.</p>
+
+</div>
+
+</body>
+
+</html>
