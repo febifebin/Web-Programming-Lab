@@ -1,25 +1,3 @@
-Test.html
-Who has access
-
-System properties
-Type
-HTML
-Size
-859 bytes
-Storage used
-859 bytes
-Location
-Online_test
-Owner
-Febin Aziz
-Modified
-6 Feb 2022 by Febin Aziz
-Opened
-20:51 by me
-Created
-6 Feb 2022
-No description
-Viewers can download
 // Questions will be asked
 const Questions = [{
 		id: 0,

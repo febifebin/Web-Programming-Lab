@@ -1,25 +1,3 @@
-Mouse_event.html
-Who has access
-
-System properties
-Type
-HTML
-Size
-732 bytes
-Storage used
-732 bytes
-Location
-Mouse_event
-Owner
-Febin Aziz
-Modified
-6 Feb 2022 by Febin Aziz
-Opened
-20:34 by me
-Created
-6 Feb 2022
-No description
-Viewers can download
 container.onmouseover = container.onmouseout = handler;
 
 function handler(event) {
