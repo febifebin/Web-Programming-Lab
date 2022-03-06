@@ -1,0 +1,21 @@
+.r1{
+	text-align:center:
+	color:blue;
+	text-decoration:underline;
+}
+#g1{
+	color:green;
+	font-weight:bold;
+	padding:1%;
+}
+#g2{
+	color:navy;
+	font-style:italic;
+	padding:1%;
+}
+body{
+	background-color:palegreen;
+	padding:2%;
+}
+	
+	
