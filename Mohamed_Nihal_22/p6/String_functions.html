@@ -1,0 +1,46 @@
+
+   
+    <!DOCTYPE html>  
+    <html>  
+    <head>  
+        <meta charset="utf-8">  
+        <title>String</title>  
+    </head>  
+    <body>  
+        <h1>Strings </h1>  
+        <script type="text/javascript">  
+        var str = "The quick brown fox jumps over the lazy dog.";
+        var str1 ="Hello"; //literal   
+        var str2 ="Welcome"  
+       //Concatenete to strings
+ //document.write(Concatenation);
+        document.write(str1+str2); 
+         document.write("<br>");
+       document.write(str.substring(4, 15) + "<br>"); // Prints: quick brown
+       document.write(str.substring(9, 0) + "<br>"); // Prints: The quick
+       document.write(str.substring(-28, -19) + "<br>"); // Prints nothing
+       document.write(str.substring(31)); // Prints: the lazy dog.
+
+
+      //To uppercase
+ document.write("<br>");
+var result = str.toUpperCase();
+document.write(result);
+ document.write("<br>");
+
+//To lowercase
+var result = str.toLowerCase();
+document.write(result);
+document.write("<br>");
+
+//Accessing single character from a string
+document.write(str.charAt());  // Prints: T
+document.write("<br>");
+document.write(str.charAt(6)); // Prints: i
+document.write("<br>");
+//Position of string
+    var pos = str.indexOf("fox");
+    document.write(pos); // 0utputs: 16
+        </script>  
+    </body>  
+    </html>  
